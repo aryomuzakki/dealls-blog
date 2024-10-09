@@ -1,3 +1,30 @@
+# Dealls Blog
+
+## Live Demo:
+### https://dealls-blog.vercel.app/
+
+## Screenshots:
+
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-13_59_55 2.png>)
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-13_59_35 2.png>)
+
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-14_00_23 3.png>)
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-14_00_23 2.png>)
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-14_00_58 3.png>)
+![demo image screenshot](<./demo/screencapture-localhost-3000-2024-10-09-14_00_58 2.png>)
+
+## Run Locally
+
+- Clone Git Repo to your desired folder `git clone https://github.com/aryomuzakki/dealls-blog.git dealls-blog-project`
+- Go to `dealls-blog-project` folder (you can use this command `cd dealls-blog-project`)
+- Run `npm install`
+- Run in development `npm run dev`
+  
+  Or build, and then run in production mode `npm run build` then `npm start`
+- Then access at http://localhost:3000
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
